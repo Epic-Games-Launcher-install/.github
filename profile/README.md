@@ -15,7 +15,7 @@ The launcher works as both a storefront and a library manager. With epic games l
 
 Players also use Epic Games Launcher for Fortnite access, Epic rewards, cloud saves, achievements, and promotions. The experience is closely tied to epic store, epic games store, and epic games store launcher features, making it useful for players who want quick access to purchases, wishlists, and epic games launcher free games from a single client.
 
-![Epic Games Launcher interface](FOTO)
+![Epic Games Launcher interface](https://img.utdstc.com/screen/ced/007/ced0074f4b16edd84d0d794eb928ad642dce0aa20755dcec85f67f4797763f2f:600)
 
 ---
 
